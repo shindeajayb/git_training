@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 total 84
 drwxrwxr-x. 4 ajayshinde ajayshinde  4096 Jul  5 12:51 .
 drwxr-xr-x. 4 ajayshinde ajayshinde  4096 Jul  3 18:07 ..
@@ -8,3 +9,5 @@ drwxrwxr-x. 8 ajayshinde ajayshinde  4096 Jul  5 12:47 .git
 drwxrwxr-x. 2 ajayshinde ajayshinde  4096 Jul  3 18:07 img
 -rw-rw-r--. 1 ajayshinde ajayshinde 55175 Jul  3 18:07 README.md
 -rw-rw-r--. 1 ajayshinde ajayshinde     0 Jul  5 12:51 Sonu.txt
+=======
+>>>>>>> 2b45bbd6f23c676c6e598fb8d619aa880d3e3805
